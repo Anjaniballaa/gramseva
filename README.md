@@ -21,6 +21,18 @@ Built with ❤️ for **Bharat**.
 
 ---
 
+## 📲 Download the App
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://expo.dev/accounts/anjani_balla/projects/gramseva/builds/a4915ed9-c456-493a-abb1-34bce6eafb10)
+
+> Scan the QR code below to download directly on your Android device:
+
+<p align="center">
+  <img src="https://github.com/anjaniballaa/gramseva/blob/main/qr.jpeg" width="200" alt="GramSeva QR Code"/>
+</p>
+
+---
+
 ## 👥 4 Roles. One Platform.
 
 ```
